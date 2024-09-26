@@ -1,3 +1,4 @@
+/*Sergio Olivas Assignment 2*/
 #include "assignment2.h"
 #include <iostream>
 using namespace std;
