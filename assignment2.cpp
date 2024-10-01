@@ -1,4 +1,5 @@
-/*Sergio Olivas Assignment 2*/
+/*Sergio Olivas Assignment 2
+CS303 */
 #include "assignment2.h"
 #include <iostream>
 
